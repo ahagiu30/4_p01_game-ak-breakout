@@ -1,6 +1,6 @@
 # Project 01 For NeXT CS
 ### Class Period:
-### Name0: YOUR NAME HERE
+### Name0: Anika Das
 ### Name1: OTHER NAME HERE (delete this line if you are working solo)
 ---
 
@@ -16,7 +16,7 @@ This project will be completed in phases. The first phase will be to work on thi
 
 ## Phase 0: Game Selection, Analysis & Plan
 
-#### Selected Game: YOUR GAME HERE
+#### Selected Game: breakout
 
 ### Necessary Features
 What are the core features that your game should have? These should be things that __must__ be implemented in order to make the game playable, not extra features that could be added to make the game more fun to play.
