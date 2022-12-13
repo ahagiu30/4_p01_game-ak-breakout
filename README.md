@@ -53,7 +53,7 @@ CLASS Ball
 - Instance variables:
   - cx, cy, xvelocity, yvelocity, radius
 - METHODS
-  - display, ball, reset, move, changeSpeed
+  - constructor, display, ball, reset, move, changeSpeed
 
 CLASS Block
 - Instance variables:
