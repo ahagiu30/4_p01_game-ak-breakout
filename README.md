@@ -1,7 +1,7 @@
 # Project 01 For NeXT CS
 ### Class Period:
 ### Name0: Anika Das
-### Name1: OTHER NAME HERE (delete this line if you are working solo)
+### Name1: Zariya Kardar
 ---
 
 
