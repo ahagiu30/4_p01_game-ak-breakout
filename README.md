@@ -47,13 +47,13 @@ CLASS Paddle
 - Instance variables:
   - x, y, rwidth, rheight
 - METHODS
-  - LIST METHODS HERE
+  - display, move, hitUp
 
 CLASS Ball
 - Instance variables:
   - cx, cy, xvelocity, yvelocity, radius
 - METHODS
-  - LIST METHODS HERE
+  - 
 
 CLASS Block
 - Instance variables:
