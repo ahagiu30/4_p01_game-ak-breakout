@@ -1,5 +1,5 @@
 # Project 01 For NeXT CS
-### Class Period:
+### Class Period: 4
 ### Name0: Anika Das
 ### Name1: Zariya Kardar
 ---
@@ -47,16 +47,16 @@ CLASS Paddle
 - Instance variables:
   - x, y, rwidth, rheight
 - METHODS
-  - display, move, hitUp
+  - display, move, bounceBack?
 
 CLASS Ball
 - Instance variables:
   - cx, cy, xvelocity, yvelocity, radius
 - METHODS
-  - 
+  - display, ball, reset, move, changeSpeed
 
 CLASS Block
 - Instance variables:
   - x, y, rwidth, rheight
 - METHODS
-  - LIST METHODS HERE
+  - array, random, display
